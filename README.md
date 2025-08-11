@@ -64,7 +64,7 @@ Exemplo de uso da API:
 
 1. **Clone o repositório**
  
-        git clone https://github.com/seu-usuario/seu-repositorio.git
+        git clone https://github.com/eduarda-ferr/Trilha-NLW-Agents.git
 
 
 2. **Acesse a pasta do projeto**
